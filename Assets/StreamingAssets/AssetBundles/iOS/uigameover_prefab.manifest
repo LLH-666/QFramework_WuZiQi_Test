@@ -1,0 +1,32 @@
+ManifestFileVersion: 0
+CRC: 3345381022
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 04eee88f8370a42461edcc7b333d8428
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: fa46904906fba14a8e1d0bba2c377ce1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0d51f3a7c41ab0346b49ae50d456bece, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0f872b5ea211a46689844420f6b93541, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Art/UIPrefab/UIGameOver.prefab
+Dependencies:
+- /Users/llh/UnityProjects/PersonalProjects/QFramework_WuZiQi_Test/AssetBundles/iOS/blackwin_jpg

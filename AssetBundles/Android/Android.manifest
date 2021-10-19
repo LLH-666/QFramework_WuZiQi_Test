@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 2716620515
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: blackchess_prefab
+      Dependencies: {}
+    Info_1:
+      Name: whitechess_prefab
+      Dependencies: {}
+    Info_2:
+      Name: uihomepanel_prefab
+      Dependencies: {}
+    Info_3:
+      Name: uigameover_prefab
+      Dependencies:
+        Dependency_0: blackwin_jpg
+    Info_4:
+      Name: blackwin_jpg
+      Dependencies: {}
+    Info_5:
+      Name: whitewin_jpg
+      Dependencies: {}
